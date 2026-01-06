@@ -1,16 +1,22 @@
-# React + Vite
+# Kapu Ecommerce
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A community-driven e-commerce solution designed to make essential goods more affordable and accessible. Built with a focus on high-performance product browsing and a seamless checkout experience tailored for emerging markets.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Browse and search products efficiently
+- Seamless checkout experience
+- Responsive design for all devices
+- High-performance and optimized UI
 
-## React Compiler
+## Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React
+- E-commerce functionality
+- Performance Optimization
 
-## Expanding the ESLint configuration
+## Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+[Click here to view the live demo](https://kapu-ecommerce.vercel.app/)
+
+
