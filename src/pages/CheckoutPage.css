@@ -12,7 +12,35 @@
      without needing a container. */
   margin-left: auto;
   margin-right: auto;
+  
+ 
 }
+
+.checkout-header-left-section{
+display: flex;
+align-items: center; 
+  gap: 8px;       
+  padding: 6px;
+  cursor: pointer;
+  text-decoration: none;
+  border-radius: 8px;
+  background-color: #19312B;
+}
+
+.logo-header{
+  color: white;
+}
+
+
+
+.logo-link {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  text-decoration: none;
+
+}
+
 
 .checkout-page .page-title {
   font-weight: 700;
@@ -30,6 +58,7 @@
   /* Use align-items: start; to prevent the elements
      in the grid from stretching vertically. */
   align-items: start;
+     
 }
 
 @media (max-width: 1000px) {
@@ -39,6 +68,7 @@
 
   .checkout-page .checkout-grid {
     grid-template-columns: 1fr;
+
   }
 }
 

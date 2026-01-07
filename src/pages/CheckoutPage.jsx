@@ -8,9 +8,10 @@ return(
  <div className="checkout-header">
       <div className="header-content">
         <div className="checkout-header-left-section">
-          <a href="/">
-            <img className="logo" src="images/logo.png" />
-            <img className="mobile-logo" src="images/mobile-logo.png" />
+          <a href="/" className="logo-link">
+            <img className="logo" 
+             src="/src/assets/shopping-bag.png" />
+          <h1 className="logo-header">KAPU</h1>
           </a>
         </div>
 
@@ -44,7 +45,7 @@ return(
                   Black and Gray Athletic Cotton Socks - 6 Pairs
                 </div>
                 <div className="product-price">
-                  $10.90
+                  Ksh200
                 </div>
                 <div className="product-quantity">
                   <span>
@@ -85,7 +86,7 @@ return(
                       Wednesday, June 15
                     </div>
                     <div className="delivery-option-price">
-                      $4.99 - Shipping
+                      Ksh300 - Shipping
                     </div>
                   </div>
                 </div>
@@ -98,7 +99,7 @@ return(
                       Monday, June 13
                     </div>
                     <div className="delivery-option-price">
-                      $9.99 - Shipping
+                      Ksh400 - Shipping
                     </div>
                   </div>
                 </div>
@@ -120,7 +121,7 @@ return(
                   Intermediate Size Basketball
                 </div>
                 <div className="product-price">
-                  $20.95
+                  Ksh800
                 </div>
                 <div className="product-quantity">
                   <span>
@@ -160,7 +161,7 @@ return(
                       Wednesday, June 15
                     </div>
                     <div className="delivery-option-price">
-                      $4.99 - Shipping
+                      Ksh300 - Shipping
                     </div>
                   </div>
                 </div>
@@ -172,7 +173,7 @@ return(
                       Monday, June 13
                     </div>
                     <div className="delivery-option-price">
-                      $9.99 - Shipping
+                      Ksh400 - Shipping
                     </div>
                   </div>
                 </div>
