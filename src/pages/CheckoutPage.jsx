@@ -9,7 +9,6 @@ export function CheckoutPage({ cart }) {
   const [deliveryOptions, setDeliveryOptions] = useState([]);
   const [paymentSummary, setPaymentSummary] = useState(null);
 
-  // Fetch delivery options
   useEffect(() => {
     axios
       .get("/api/delivery-options?expand=estimatedDeliveryTime")
@@ -17,7 +16,6 @@ export function CheckoutPage({ cart }) {
       .catch((err) => console.error("Delivery options fetch error:", err));
   }, []);
 
-  // Fetch payment summary and convert cents to Ksh
   useEffect(() => {
     axios
       .get("/api/payment-summary")
@@ -38,7 +36,7 @@ export function CheckoutPage({ cart }) {
       .catch((err) => console.error("Payment summary fetch error:", err));
   }, []);
 
-  // Safety: ensure cart is an array
+  
   const safeCart = Array.isArray(cart) ? cart : [];
 
   return (
@@ -68,7 +66,7 @@ export function CheckoutPage({ cart }) {
         <div className="page-title">Review your order</div>
 
         <div className="checkout-grid">
-          {/* Order summary */}
+         
           <div className="order-summary">
             {safeCart.length > 0 && deliveryOptions.length > 0 ? (
               safeCart.map((cartItem) => {
@@ -151,7 +149,6 @@ export function CheckoutPage({ cart }) {
             )}
           </div>
 
-          {/* Payment summary */}
           <div className="payment-summary">
             <div className="payment-summary-title">Payment Summary</div>
 
