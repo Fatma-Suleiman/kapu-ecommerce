@@ -1,4 +1,4 @@
-[
+ [
   {
     "id": "e43638ce-6aa0-4b85-b27f-e1d07eb678c6",
     "image": "images/products/athletic-cotton-socks-6-pairs.jpg",
@@ -7,7 +7,7 @@
       "stars": 4.5,
       "count": 87
     },
-    "priceCents": 1090,
+    "priceKshs": 200,
     "keywords": ["socks", "sports", "apparel"]
   },
   {
@@ -18,7 +18,7 @@
       "stars": 4,
       "count": 127
     },
-    "priceCents": 2095,
+    "priceKshs": 800,
     "keywords": ["sports", "basketballs"]
   },
   {
@@ -29,7 +29,7 @@
       "stars": 4.5,
       "count": 56
     },
-    "priceCents": 799,
+  "priceKshs": 400,
     "keywords": ["tshirts", "apparel", "mens"]
   },
   {
@@ -40,7 +40,7 @@
       "stars": 5,
       "count": 2197
     },
-    "priceCents": 1899,
+   "priceKshs": 3500,
     "keywords": ["toaster", "kitchen", "appliances"]
   },
   {
@@ -51,7 +51,7 @@
       "stars": 4,
       "count": 37
     },
-    "priceCents": 2067,
+"priceKshs": 1500,
     "keywords": ["plates", "kitchen", "dining"]
   },
   {
@@ -62,7 +62,7 @@
       "stars": 4.5,
       "count": 175
     },
-    "priceCents": 3499,
+  "priceKshs": 2000,
     "keywords": ["kitchen", "cookware"]
   },
   {
@@ -73,7 +73,7 @@
       "stars": 4.5,
       "count": 317
     },
-    "priceCents": 2400,
+   "priceKshs": 200,
     "keywords": ["sweaters", "apparel"]
   },
   {
@@ -84,7 +84,7 @@
       "stars": 4.5,
       "count": 144
     },
-    "priceCents": 3599,
+"priceKshs": 400,
     "keywords": ["bathroom", "washroom", "restroom", "towels", "bath towels"]
   },
   {
@@ -95,7 +95,7 @@
       "stars": 4,
       "count": 99
     },
-    "priceCents": 2374,
+    "priceKshs": 120,
     "keywords": ["kleenex", "tissues", "kitchen", "napkins"]
   },
   {
@@ -106,7 +106,7 @@
       "stars": 4.5,
       "count": 235
     },
-    "priceCents": 2970,
+   "priceKshs": 600,
     "keywords": ["robe", "swimsuit", "swimming", "bathing", "apparel"]
   },
   {
@@ -117,7 +117,7 @@
       "stars": 4.5,
       "count": 2286
     },
-    "priceCents": 5300,
+  "priceKshs": 400,
     "keywords": ["garbage", "bins", "cans", "kitchen"]
   },
   {
@@ -128,7 +128,7 @@
       "stars": 4.5,
       "count": 30
     },
-    "priceCents": 3560,
+   "priceKshs": 200,
     "keywords": ["accessories", "shades"]
   },
   {
@@ -139,7 +139,7 @@
       "stars": 4.5,
       "count": 232
     },
-    "priceCents": 4599,
+    "priceKshs": 2500,
     "keywords": ["bedroom", "curtains", "home"]
   },
   {
@@ -150,7 +150,7 @@
       "stars": 4,
       "count": 160
     },
-    "priceCents": 1699,
+    "priceKshs": 400,
     "keywords": ["shorts", "apparel", "mens"]
   },
   {
@@ -161,7 +161,7 @@
       "stars": 5,
       "count": 846
     },
-    "priceCents": 5074,
+    "priceKshs": 1250,
     "keywords": ["water kettle", "appliances", "kitchen"]
   },
   {
@@ -172,7 +172,7 @@
       "stars": 4,
       "count": 89
     },
-    "priceCents": 5390,
+    "priceKshs": 650,
     "keywords": ["shoes", "running shoes", "footwear"]
   },
   {
@@ -183,7 +183,7 @@
       "stars": 4,
       "count": 215
     },
-    "priceCents": 2200,
+    "priceKshs": 200,
     "keywords": ["hats", "straw hats", "summer", "apparel"]
   },
   {
@@ -194,7 +194,7 @@
       "stars": 4,
       "count": 229
     },
-    "priceCents": 4590,
+   "priceKshs": 600,
     "keywords": ["shoes", "running shoes", "footwear", "mens"]
   },
   {
@@ -205,7 +205,7 @@
       "stars": 4.5,
       "count": 2465
     },
-    "priceCents": 3374,
+   "priceKshs": 540,
     "keywords": ["sweaters", "apparel"]
   },
   {
@@ -216,7 +216,7 @@
       "stars": 4.5,
       "count": 119
     },
-    "priceCents": 1850,
+    "priceKshs": 100,
     "keywords": ["bathmat", "bathroom", "home"]
   },
   {
@@ -227,7 +227,7 @@
       "stars": 4,
       "count": 326
     },
-    "priceCents": 2640,
+   "priceKshs": 1200,
     "keywords": ["shoes", "flats", "womens", "footwear"]
   },
   {
@@ -238,7 +238,7 @@
       "stars": 4.5,
       "count": 2556
     },
-    "priceCents": 1599,
+    "priceKshs": 1200,
     "keywords": ["tshirts", "shirts", "apparel", "mens"]
   },
   {
@@ -249,7 +249,7 @@
       "stars": 4.5,
       "count": 305
     },
-    "priceCents": 2899,
+   "priceKshs": 250,
     "keywords": ["bathroom", "cleaning"]
   },
   {
@@ -260,7 +260,7 @@
       "stars": 4.5,
       "count": 52
     },
-    "priceCents": 6799,
+   "priceKshs": 200,
     "keywords": ["jewelry", "accessories", "womens"]
   },
   {
@@ -271,7 +271,7 @@
       "stars": 4,
       "count": 456
     },
-    "priceCents": 4399,
+"priceKshs": 1250,
     "keywords": ["bedroom", "bed sheets", "sheets", "covers", "home"]
   },
   {
@@ -282,7 +282,7 @@
       "stars": 5,
       "count": 83
     },
-    "priceCents": 1950,
+   "priceKshs": 2000,
     "keywords": ["hats", "winter hats", "beanies", "apparel", "womens"]
   },
   {
@@ -293,7 +293,7 @@
       "stars": 4.5,
       "count": 9017
     },
-    "priceCents": 2290,
+    "priceKshs": 750,
     "keywords": ["pants", "apparel", "mens"]
   },
   {
@@ -304,7 +304,7 @@
       "stars": 3.5,
       "count": 42
     },
-    "priceCents": 3690,
+   "priceKshs": 600,
     "keywords": ["sunglasses", "glasses", "accessories", "shades"]
   },
   {
@@ -315,7 +315,7 @@
       "stars": 4.5,
       "count": 562
     },
-    "priceCents": 2499,
+   "priceKshs": 900,
     "keywords": ["footwear", "men", "sneakers"]
   },
   {
@@ -326,7 +326,7 @@
       "stars": 4.5,
       "count": 511
     },
-    "priceCents": 6797,
+   "priceKshs": 3000,
     "keywords": ["cooking set", "kitchen"]
   },
   {
@@ -337,7 +337,7 @@
       "stars": 4.5,
       "count": 130
     },
-    "priceCents": 2549,
+   "priceKshs": 1200,
     "keywords": ["bathroom", "washroom", "mirrors", "home"]
   },
   {
@@ -348,7 +348,7 @@
       "stars": 4.5,
       "count": 248
     },
-    "priceCents": 3400,
+   "priceKshs":1200,
     "keywords": ["pants", "pants", "apparel", "womens"]
   },
   {
@@ -359,7 +359,7 @@
       "stars": 4.5,
       "count": 117
     },
-    "priceCents": 3467,
+  "priceKshs": 200,
     "keywords": ["accessories", "womens"]
   },
   {
@@ -370,7 +370,7 @@
       "stars": 4,
       "count": 126
     },
-    "priceCents": 2899,
+   "priceKshs": 2500,
     "keywords": ["food containers", "kitchen"]
   },
   {
@@ -381,7 +381,7 @@
       "stars": 4.5,
       "count": 1211
     },
-    "priceCents": 8250,
+  "priceKshs": 800,
     "keywords": ["espresso makers", "kitchen", "appliances"]
   },
   {
@@ -392,7 +392,7 @@
       "stars": 4.5,
       "count": 363
     },
-    "priceCents": 3099,
+    "priceKshs": 3000,
     "keywords": ["bedroom", "home", "curtains"]
   },
   {
@@ -403,7 +403,7 @@
       "stars": 4.5,
       "count": 93
     },
-    "priceCents": 2990,
+   "priceKshs": 400,
     "keywords": ["bathroom", "home", "towels"]
   },
   {
@@ -414,18 +414,18 @@
       "stars": 4,
       "count": 89
     },
-    "priceCents": 3390,
+    "priceKshs": 3390,
     "keywords": ["shoes", "running shoes", "footwear"]
   },
   {
     "id": "77a845b1-16ed-4eac-bdf9-5b591882113d",
     "image": "images/products/countertop-push-blender-black.jpg",
-    "name": "Countertop Push Blender - Black",
+    "name": "countertop Push Blender - Black",
     "rating": {
       "stars": 4,
       "count": 3
     },
-    "priceCents": 10747,
+    "priceKshs":1074,
     "keywords": ["food blenders", "kitchen", "appliances"]
   },
   {
@@ -436,7 +436,7 @@
       "stars": 4.5,
       "count": 3157
     },
-    "priceCents": 3800,
+    "priceKshs": 300,
     "keywords": ["sweaters", "hoodies", "apparel", "mens"]
   },
   {
@@ -447,7 +447,7 @@
       "stars": 5,
       "count": 679
     },
-    "priceCents": 3899,
+     "priceKshs": 3800,
     "keywords": ["bowls set", "kitchen"]
   },
   {
@@ -458,7 +458,7 @@
       "stars": 4.5,
       "count": 1045
     },
-    "priceCents": 1899,
+    "priceKshs": 1800,
     "keywords": ["kitchen", "kitchen towels", "tissues"]
   }
 ]
